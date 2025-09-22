@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto corresponde a los **Ciclos 1 y 2 del Proyecto Inicial**.  
 El objetivo es construir un simulador inspirado en el problema **“The Silk Road … with Robots!”** de la Maratón de Programación ICPC 2024.  
@@ -15,7 +15,7 @@ A lo largo de los ciclos, el proyecto evoluciona desde un simulador básico hast
 
 ---
 
-## 🎯 Requisitos Funcionales
+## Requisitos Funcionales
 
 ### Ciclo 1
 - Crear una ruta de seda dada su longitud.  
@@ -35,7 +35,7 @@ A lo largo de los ciclos, el proyecto evoluciona desde un simulador básico hast
 
 ---
 
-## 🛠️ Requisitos de Construcción
+## Requisitos de Construcción
 - Uso de **BlueJ** en un proyecto llamado `silkroad`.  
 - Respeto a las decisiones de diseño establecidas en la clase principal (`SilkRoadSimulator`).  
 - Uso y extensión del paquete **`shapes`** para la representación visual (tiendas y robots con colores y figuras).  
@@ -43,7 +43,7 @@ A lo largo de los ciclos, el proyecto evoluciona desde un simulador básico hast
 
 ---
 
-## 📑 Entregables
+## Entregables
 - **Diseño en Astah:**  
   - Diagramas de clases (Ciclo 1 y 2).  
   - Diagramas de secuencia de los métodos principales.  
@@ -59,7 +59,7 @@ A lo largo de los ciclos, el proyecto evoluciona desde un simulador básico hast
 
 ---
 
-## 🚀 Cómo usar el simulador
+## Cómo usar el simulador
 1. Crear una instancia de `SilkRoadSimulator` indicando la longitud de la ruta:  
    ```java
    SilkRoadSimulator sim = new SilkRoadSimulator(50);
